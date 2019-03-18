@@ -12,7 +12,7 @@ https://addons.mozilla.org/en-US/firefox/addon/rester/
 https://chrome.google.com/webstore/detail/rester/eejfoncpjfgmeleakejdcanedmefagga?hl=en 
 
 ## A minute for shop
-I'll be so happy, if you visit my web-site or become its regular user while searching goods from China:
+I would be so happy, if you visit my web-site or become its regular user while searching goods from China:
 
 <a href="https://minuteforshop.com" target="_blank"><img src="https://minuteforshop.com/img/logo_black_squared.svg" width="300"></a>
 
