@@ -7,8 +7,10 @@ https://www.elastic.co/downloads/past-releases/elasticsearch-6-6-1
 
 ## HTTP REST examples
 The miniq-rester-examples.json holds REST calls examples. It could be imported in any browser exstension supporting postman format.
-The original extension used for demostration:
+The original extension used for the demostration:
+
 https://addons.mozilla.org/en-US/firefox/addon/rester/
+
 https://chrome.google.com/webstore/detail/rester/eejfoncpjfgmeleakejdcanedmefagga?hl=en 
 
 ## A minute for shop
