@@ -2,7 +2,7 @@
 The repository holds examples presented at MiniQ 27.03.2019 (Vitebsk)
 
 ## Elasticsearch
-The version of the Elasticsearch usied in the demo is 6.6.1 and available for dowloading by the link:
+The version of the Elasticsearch used in the demo is 6.6.1 and available for dowloading by the link:
 https://www.elastic.co/downloads/past-releases/elasticsearch-6-6-1
 
 ## HTTP REST examples
